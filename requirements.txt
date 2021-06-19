@@ -1,0 +1,16 @@
+tensorflow==2.4.0
+opencv-python==4.1.1.26
+lxml~=4.6.2
+tqdm~=4.59.0
+
+-e .
+
+numpy~=1.19.5
+setuptools~=47.1.0
+pandas~=1.2.2
+matplotlib~=3.3.4
+Pillow~=8.1.0
+six~=1.15.0
+scipy~=1.6.1
+PyYAML~=5.4.1
+h5py~=2.10.0
